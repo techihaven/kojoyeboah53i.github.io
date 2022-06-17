@@ -1,0 +1,66 @@
+I have worked with bo SQL and NO SQL database systems. The SQL was a relational database. I built an e-commerce web application with it. Reference here https://tuatuagye.com/
+I used the No SQL database to develop a chat app for a live event with Laravel, MongoDB, and a Pusher Channel. Reference here https://github.com/kojoYeboah53i/chat-vue/
+
+My point is I can easily adapt to any kind of database schema to write good software. I am not limited to only MySQL database.
+
+I have been able to resolve most of the challenges of my professional software developer career so far. I'd like to see how far I can push it, I would like to handle big problems and resolve them, adding to my resume. Contra seems like a place for that. Michael Jackson once said in an interview that, if you have songs in you, bring them out, let the world hear your song, why keep them in", I agree. If a person has the potential to cure cancer, it would be a waste for him not to try it. So I want to try and tackle as many software problems as possible with the aim of providing solutions that save time and effort. At least I want to try, and if I fail, I would have at least learned one way of how not to do it. 
+
+Contra's interest in providing independence for their clients calls for innovation, the idea of providing customized solutions for each of Contra's clients is the straw that broke the camel's back for me. That language in the company's profile by implication suggests there are already brilliant people working in the company from upper management down to the interns. That's a team I would like to be part of.  
+
+
+I am currently living in Accra, Ghana in West Africa. But I have been volunteering with some colleagues in Fremont CA, in the USA for the past eight(8) months now on a start-up called "Epic Coders " so I can am very comfortable with the timezone difference, my body has adjusted to the routine, I am more awake during the night here which would be a day over there. Reference here 
+https://www.linkedin.com/company/epic-coders/
+
+
+
+###############
+
+Dear Hiring Manager,
+Please accept this letter as an expression of my interest in the Web Developer position. I am a highly motivated and progress-focused Web Developer with a long-standing background in this industry. With a track record of initiative and dependability, I have devised strategic initiatives which I believe will prove valuable to your organization.
+Throughout the course of my career, I have perfected my web development and software testing abilities.
+
+I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency.
+In my previous role, I contributed communication, critical thinking, and programming toward team efforts and business improvements. I am progressive-minded and in tune with new developments in my field. I have proven to be effective and collaborative with strong innovation talents. I enjoy collective brainstorming sessions in which I coordinate activities to achieve a common goal.
+Please take a moment to review my attached resume and credentials. I would greatly appreciate the opportunity to speak with you regarding my candidacy.
+Thank you for your consideration
+
+
+
+####
+
+contra application url  june 17
+https://jobs.lever.co/contra/3173ac23-43dd-4273-9f44-3e3ec60bcef3/thanks
+https://digitalnomads.world/job/backend-engineer-senior-node-js-graphql-postgresql-engineer/
+
+
+### float.com
+https://weworkremotely.com/remote-jobs/float-senior-application-engineer-node-js-1
+If you do not hear from us within 14 days.  start June 17
+
+### clarity
+https://www.clarity.io/careers/software-development-engineer
+https://weworkremotely.com/remote-jobs/clarity-movement-senior-software-development-engineer
+
+
+### 
+#Briefly describe a recent engineering project
+
+I have worked with bo SQL and NO SQL database systems. The SQL was a relational database. I built an e-commerce web application with it. Reference here https://tuatuagye.com/
+I used the No SQL database to develop a chat app for a live event with Laravel, MongoDB, and a Pusher Channel. Reference here https://github.com/kojoYeboah53i/chat-vue/
+
+Challenges
+The power issues in my country were not very stable, and it takes a lot of focus for a developer really gets into the zone, and was there, they can do three weeks' worth of work in a matter of hours, if not interrupted. But during the time I worked on these applications, there was some power issue in my country and we only had 60hrs of electricity for the week. That was a real drawback to my speed.
+
+I also had some major bugs with the platform, because I was new to the stack I used was new to me at the time, and the documentation wasn't that great for most of the APIs e.g I spent about two weeks being able to integrate the pusher notifications into my chat app.
+
+I used site cookies and server-side sessions to hold the user's cart data until after they logged then I create a cart with the user's ID. It turns out this way of doing it requires several requests to the server and if 50,000 users are on the side at the same time, that would be bad. But had I known about "state management" at the time, I could have handled all add-to-cart stuff on the Frontend of the application and only make a few requests to the server. 
+
+ I also didn't know Tailwindcss at the time and the flexibility and speed it gives you so I wasted a lot of time developing the responsive features of the applications.
+
+The Bright Side.
+By the time I was done with these projects, I was very versatile, and my database querying skill had improved drastically. I also discovered I prefer backend development more because of the resources available in nodeJs 
+
+
+Also, I developed an IoT device called “Airtimebot”. I worked with a local client in my community, the client's company provided tracking devices for financial institutions, these devices were mostly installed in vehicles of people these finance companies offered loans to, there were over 3000’s devices installed and my client needed a way to load airtime (internet data bundle for the device to be able to connect to the internet) unto the SIM cards inside those devices to keep the tracking devices from going offline, all this had to be done from a web portal. So I built an IOT
+device that took JSON data from a web server I created and distributed the "airtime" to the tracking
+devices. I even provided a dashboard to load the airtime from the web portal and view the devices that have been updated. This was a solution I created based on the client's business needs. I am very good at thinking outside the box for a solution that saves the company. It's the very reason people keep hiring me
